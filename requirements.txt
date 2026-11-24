@@ -1,0 +1,17 @@
+# Core AI & Computer Vision
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+tensorflow>=2.10.0
+
+# Speech & Urdu Text Processing
+edge-tts>=7.0.0
+pygame>=2.5.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+Pillow>=10.0.0
+SpeechRecognition>=3.10.0
+
+# Full-Stack Web App
+flask>=3.0.0
+flask-cors>=4.0.0
